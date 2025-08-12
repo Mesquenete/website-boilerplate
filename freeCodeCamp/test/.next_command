@@ -259,3 +259,4 @@ rmdir -r fonts
 find
 rmdir -r fonts
 rm -r fonts
+ls --color=auto
