@@ -227,3 +227,6 @@ pwd
 find
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons
+pwd
+ls --color=auto
+find
