@@ -208,3 +208,4 @@ find assets
 find images
 find -name
 find -name images
+mv header.png client/assets/images
