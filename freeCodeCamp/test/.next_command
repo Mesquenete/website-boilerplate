@@ -36,3 +36,4 @@ a
 echo hello terminal
 a
 pwd
+ls --color=auto
