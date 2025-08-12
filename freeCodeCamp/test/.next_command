@@ -287,3 +287,4 @@ copy --help
 copy -help
 --help copy
 cp --help
+cp -r website-boilerplate toms-website
