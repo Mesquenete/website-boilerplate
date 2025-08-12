@@ -230,3 +230,10 @@ mv CodeAlly.svg client/assets/icons
 pwd
 ls --color=auto
 find
+mv CodeRoad icons
+mv CodeRoad.svg icons
+find
+mv CodeRoad.svg client/assets/icons
+find CodeRoad.svg
+touch CodeRoad.svg
+mv CodeRoad.svg client/assets/icons
