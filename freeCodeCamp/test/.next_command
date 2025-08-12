@@ -91,3 +91,4 @@ ls --color=auto -all
 cd ..
 cd website
 cd .
+touch background.jpg
