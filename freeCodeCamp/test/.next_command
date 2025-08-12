@@ -279,3 +279,4 @@ more README.md
 cd .
 cd ..
 ls --color=auto
+mv website website-boilerplate
