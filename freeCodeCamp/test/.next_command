@@ -223,3 +223,6 @@ rm images/background.jpeg
 rm images/background.jpg
 rmdir images
 ls --color=auto
+pwd
+find
+mkdir client/assets/icons
