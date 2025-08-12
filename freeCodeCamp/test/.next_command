@@ -155,3 +155,4 @@ find
 mv assets client
 ls --color=auto
 cd client
+mkdir assets
