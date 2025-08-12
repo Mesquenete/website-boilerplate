@@ -68,3 +68,5 @@ pwd
 ls --color=auto
 more index.js
 cd ..
+cd node_modules
+cd ..
