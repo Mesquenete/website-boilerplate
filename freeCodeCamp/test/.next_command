@@ -152,3 +152,6 @@ find -name styles.css
 find -name src
 pwd
 find
+mv assets client
+ls --color=auto
+cd client
