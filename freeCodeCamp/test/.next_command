@@ -190,3 +190,4 @@ ls --color=auto
 cd images
 pwd
 cd ../../..
+cd images
